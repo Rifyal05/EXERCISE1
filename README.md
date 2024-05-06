@@ -28,4 +28,4 @@ output(tidak boleh masuk dan pindah ke bagian pendaftaran)
 
 #Flowchart
 
-![STAR](https://github.com/Rifyal05/EXERCISE1/assets/145568253/cb52a553-b8ba-4b14-9062-406f4eda81dc)
+![STAR (1)](https://github.com/Rifyal05/EXERCISE1/assets/145568253/8de1d471-1419-466c-813c-6082c39fbb72)
